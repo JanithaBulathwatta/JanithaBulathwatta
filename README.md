@@ -1,4 +1,4 @@
-![MasterHead](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg)
+<!--![MasterHead](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg)-->
 <h1 align="center">Hi 👋, I'm Janitha Bulathwatta</h1>
 <img align="right" alt="cording" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithabulathwatta&label=Profile%20views&color=0e75b6&style=flat" alt="janithabulathwatta" /> </p>
