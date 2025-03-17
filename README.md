@@ -1,6 +1,6 @@
 <!--![MasterHead](https://www.jadeglobal.com/sites/default/files/2021-03/migrating-blog-banner-min.jpg)-->
 <h1 align="center">Hi 👋, I'm Janitha Bulathwatta</h1>
-<img align="right" alt="cording" width="400" src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif">
+<img align="right" alt="cording" width="400" src="https://www.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_11602236.htm#fromView=search&page=1&position=3&uuid=83aaa940-a970-4cb8-bc22-eae147dedfd9&query=Coding+png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithabulathwatta&label=Profile%20views&color=0e75b6&style=flat" alt="janithabulathwatta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/j_bulathwatta" target="blank"><img src="https://img.shields.io/twitter/follow/j_bulathwatta?logo=twitter&style=for-the-badge" alt="j_bulathwatta" /></a> </p>
